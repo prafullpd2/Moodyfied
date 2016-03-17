@@ -26,6 +26,8 @@ public class LoginRegister extends AppCompatActivity implements SignUpFragment.O
         tabLayout.setupWithViewPager(pager);
         tabLayout.setTabTextColors(Color.GRAY,Color.DKGRAY);
         tabLayout.setSelectedTabIndicatorHeight(6);
+
+
         tabLayout.setSelectedTabIndicatorColor(Color.rgb(97,97,97));
 
 
